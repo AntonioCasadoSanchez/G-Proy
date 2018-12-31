@@ -1,6 +1,6 @@
 # G-Proy
 
-Proyecto de la asignatura de Interacción Persona-Ordenador.
+Proyecto para la asignatura Interacción Persona-Ordenador.
 
 Realizado en Java, utilizando la herramienta WindowBuilder de Eclipse y la biblioteca gráfica Swing.
 
